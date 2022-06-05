@@ -1,5 +1,7 @@
 Tweet Media Extractor
 
+Extract tweet info with media list (photos and videos) with links.
+
 ```typescript
 import { getTweet } from '../src';
 
