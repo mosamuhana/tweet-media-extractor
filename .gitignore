@@ -1,0 +1,9 @@
+/.nyc_output
+/coverage
+/node_modules
+/npm-debug.log
+dist
+_src*
+/src/__pool.ts
+/examples/_test.ts
+/_tmp
